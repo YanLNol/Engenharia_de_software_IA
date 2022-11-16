@@ -1,4 +1,4 @@
-## Assistente Virutal (IA) Engenharia de Software
+## Assistente Virtual (IA) Engenharia de Software
 
 ## requirements:
 
